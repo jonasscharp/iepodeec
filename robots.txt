@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://aquiithein.adam2k.com/sitemap.xml
